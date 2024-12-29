@@ -28,7 +28,7 @@ Shows a list of orders, including details like order ID, customer name, order da
 Optionally allows viewing of order details, updating the order status, and deletion of orders.
 
 
-##_Development Instructions_
+## _Development Instructions_:
 To run this project locally, follow these steps:
 _Clone the repository to your local machine._
 Navigate to the project directory.
