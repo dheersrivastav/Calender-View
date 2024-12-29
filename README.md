@@ -26,9 +26,10 @@ Enables functionalities to add, edit, and delete products.
 _Orders Management_
 Shows a list of orders, including details like order ID, customer name, order date, and status, using mock data.
 Optionally allows viewing of order details, updating the order status, and deletion of orders.
-_Development Instructions_
-To run this project locally, follow these steps:
 
+
+##_Development Instructions_
+To run this project locally, follow these steps:
 _Clone the repository to your local machine._
 Navigate to the project directory.
 Install dependencies using npm install.
